@@ -116,3 +116,7 @@ mvn clean test
 ```
 
 Expected result: `Tests run: 12, Failures: 0, Errors: 0, Skipped: 0`
+
+## Author
+
+Shoubhik Ghosh
